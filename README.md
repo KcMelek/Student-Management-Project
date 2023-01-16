@@ -4,20 +4,27 @@ This project is a full-stack web application that allows users to manage student
 # Features
 
 • Add and delete students
+<br>
 • View a list of all students
 
 # Getting Started
 
 • Clone the repository: git clone https://github.com/KcMelek/Student-Management-Project.git
+<br>
 • Install dependencies: npm install
+<br>
 • Start the development server: npm start
+<br>
 • Open http://localhost:3000 in your browser to access the application
 
 # Technologies Used
 
 • MongoDB for the database
+<br>
 • Express.js for the server-side logic
+<br>
 • React.js for the client-side logic
+<br>
 • Node.js as the runtime environment
 
 # Contributing
